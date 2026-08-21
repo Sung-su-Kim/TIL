@@ -8,9 +8,7 @@
 
 日本語学習を兼ねて、生成AIを活用しながら日本語で作成しています。
 
-> [한국어로 보기 (Translate to Korean)](https://translate.google.com/translate?sl=ja&tl=ko&u=https://github.com/Sung-su-Kim/TIL)
-
-> [日本語で見る (Original)](https://github.com/Sung-su-Kim/TIL)
+> [한국어로 보기 (Translate to Korean)](https://translate.google.com/website?sl=ja&tl=ko&u=https://github.com/Sung-su-Kim/TIL) | [日本語で見る (Original)](https://github.com/Sung-su-Kim/TIL)
 
 ---
 
@@ -18,12 +16,13 @@
 
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
-| 01-University | 大学の専攻(AI中心) | 専攻授業のノート |
-| 02-Python | Python & AI | Numpy、Tensorflow、PyTorchなどのAIコアライブラリ |
-| 03-Java | Java | Javaの基本文法とOOPの概念 |
-| 04-Web | Web Frontend | HTML、CSS、JavaScript |
-| 05-CS | Computer Science | OS、Network、DB、データ構造・アルゴリズム |
-| 06-Security | 情報セキュリティ・サイバーハッキング基礎 | 情報セキュリティ、暗号、機械学習アンチウイルスなど |
+| University | 大学の専攻 (AI中心) | 専攻授業のノート |
+| Python | Python & AI | Numpy、Tensorflow、PyTorchなどのAIコアライブラリ |
+| Java | Java | Javaの基本文法とOOPの概念 |
+| Web | Web Frontend | HTML、CSS、JavaScript |
+| CS | Computer Science | OS、Network、DB、データ構造・アルゴリズム |
+| Security | 情報セキュリティ・サイバーハッキング基礎 | 情報セキュリティ、暗号、機械学習アンチウイルスなど |
+| Math | 機械学習の数学 | 微分積分、確率・統計、線形代数など | 
 
 ---
 
