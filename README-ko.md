@@ -22,11 +22,11 @@
 
 | 폴더 | 카테고리 | 개요 |
 | :--- | :--- | :--- |
-| University | 대학 전공 (AI) | 전공수업 필기 |
-| Python | Python & AI | 파이썬 학습노트 (Flow Control・Data Struture・Function) 및 AI핵심 라이브러리 |
+| AI | AI・머신러닝 | 인공지능 개념필기 |
+| Python | Python & AI | 파이썬 학습노트 (Flow Control・Data Struture・Function) 및 AI 라이브러리 |
 | Java | Java | Java문법과 객체지향 개념 |
 | Web | Web Frontend | HTML, CSS, JavaScript |
-| CS | Computer Science | OS, Network, DB등 |
+| CS | Computer Science | OS, Network, DB (SQL) 등 |
 | Math | 인공지능 수학 | 미적분, 확률과 통계, 선형대수학 등 | 
 
 ---
