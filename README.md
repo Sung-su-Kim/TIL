@@ -24,8 +24,7 @@ Pythonの問題演習はコードが中心となるため、効率的な学習�
 | Python | Python & AI | Python勉強ノート (Flow Control・Data Struture・Function)、 AIライブラリ |
 | Java | Java | Javaの文法とOOPの概念 |
 | Web | Web Frontend | HTML、CSS、JavaScript |
-| CS | Computer Science | OS、Network、DB (SQL) など |
-| Math | 機械学習の数学 | 微分積分、確率・統計、線形代数など | 
+| CS | Computer Science | OS、Network、DB (SQL)など |
 
 ---
 
