@@ -80,9 +80,9 @@ for i in range(half + 1):
     else:
         print(" " * leading_spaces + "*" + " " * inner_gap + "*")
 
-# 다이아몬드 아랫부분 삼각형 출력 (꼭짓점 제와, 윗쪽의 역순)  
+# 다이아몬드 아랫부분 삼각형 출력 (꼭짓점 제외, 윗쪽의 역순)  
 for i in range(half - 1, -1, -1):
-    leading_spaces = half - 1  # 앞쪽 공백 수
+    leading_spaces = half - i  # 앞쪽 공백 수
     inner_gap = 2 * i - 1      # 별 사이 공백 수
     
     if i == 0:
