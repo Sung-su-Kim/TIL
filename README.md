@@ -8,9 +8,7 @@
 
 日本語学習を兼ねて、生成AIを活用しながら日本語で作成しています。
 
-Pythonの問題演習はコードが中心となるため、効率的な学習を目的として、コメントや改善点は韓国語で記述しています。
-
-> [한국어로 보기 (Korean)](./README-ko.md)
+PythonとJavaの問題演習はコードが中心となるため、効率的な学習を目的として、コメントや改善点は韓国語で記述しています。
 
 ---
 
@@ -20,11 +18,10 @@ Pythonの問題演習はコードが中心となるため、効率的な学習�
 
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
-| AI | AI・Machine Learning | AIの概念ノート |
-| Python | Python & AI | Python勉強ノート (Flow Control・Data Struture・Function)、 AIライブラリ |
-| Java | Java | Javaの文法とOOPの概念 |
+| Python | Python | Pythonの勉強ノート (Flow Control・Data Struture・Function) |
+| Java | Java | Javaの勉強ノート (Flow Control) とOOPの概念 |
 | Web | Web Frontend | HTML、CSS、JavaScript |
-| CS | Computer Science | OS、Network、DB (SQL)など |
+| CS | Computer Science | OS、DB (SQL)、Git |
 
 ---
 
