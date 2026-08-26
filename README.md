@@ -4,7 +4,7 @@
 
 <br>
 
-## Documentation Language
+## 🌐 Documentation Language
 
 日本語学習を兼ねて、生成AIを活用しながら日本語で作成しています。
 
@@ -14,7 +14,7 @@ PythonとJavaの問題演習はコードが中心となるため、効率的な�
 
 <br>
 
-## Repository Structure
+## 📂 Repository Structure
 
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ PythonとJavaの問題演習はコードが中心となるため、効率的な�
 
 <br>
 
-## Commit Convention
+## ✅ Commit Convention
 
 一貫した記録のため、以下のルールでコミットします。
 
