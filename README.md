@@ -18,10 +18,11 @@ PythonとJavaの問題演習はコードが中心となるため、効率的な�
 
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
-| Python | Python | Pythonの勉強ノート (Flow Control・Data Struture・Function) |
-| Java | Java | Javaの勉強ノート (Flow Control) とOOPの概念 |
+| Python | Python | Python 問題演習 (Flow Control・Data Struture・Function) |
+| Java | Java | Java 問題演習 (Flow Control)、OOP |
 | Web | Web Frontend | HTML、CSS、JavaScript |
-| CS | Computer Science | OS、DB (SQL)、Git |
+| CS | Computer Science | OS、Git |
+| SQL | Oracle SQL | SQL 問題演習 |
 
 ---
 
